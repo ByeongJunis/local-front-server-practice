@@ -1,6 +1,6 @@
 Start
 
-Create add.js \
+Create app.js \
 
 npm install express \
 
